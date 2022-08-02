@@ -1,0 +1,3 @@
+export LD_LIBRARY_PATH=/home/karisma/Desktop/anpr_backend/lib/linux/x86_64:$LD_LIBRARY_PATH
+SDK server 1 : WCWZC-ND4EI-74WR9-YVGMD-E223C (12 channels required) -> License key upgraded to 12 channels and trial period extended until 12 Aug, please reactivate on same machine.
+rtsp://admin:Laz0p0k0@10.224.82.62/Streaming/Channels/101
